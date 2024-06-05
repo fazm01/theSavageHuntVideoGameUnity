@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 2ab431c6e3b20034db2f08f5ec853f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2656460791387022265
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_0
+  - first:
+      213: -5957920107042368262
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_1
+  - first:
+      213: 3210321304549497136
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_2
+  - first:
+      213: -1927720035755069123
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_3
+  - first:
+      213: 7346184330958875540
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_4
+  - first:
+      213: 8993365807640224223
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_5
+  - first:
+      213: -3535166992413465445
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_6
+  - first:
+      213: -3024780308009044272
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_7
+  - first:
+      213: -7569015209189210298
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_8
+  - first:
+      213: -9075097886837711938
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_9
+  - first:
+      213: 3857671066039109875
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_10
+  - first:
+      213: -5865895725484416186
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_11
+  - first:
+      213: 5970487901606374343
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_12
+  - first:
+      213: 82774179767627243
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_13
+  - first:
+      213: -2523306364740426304
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_14
+  - first:
+      213: 892422183709634025
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_15
+  - first:
+      213: -8296981977047067390
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_16
+  - first:
+      213: 7480809768611674129
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_17
+  - first:
+      213: 311952407902371915
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_18
+  - first:
+      213: -7596994514021428242
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_19
+  - first:
+      213: 851917052941822416
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_20
+  - first:
+      213: 1477451486735781267
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_21
+  - first:
+      213: -726310171344463840
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_22
+  - first:
+      213: 720381385804004775
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_23
+  - first:
+      213: -7062462851078846845
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_24
+  - first:
+      213: -3983095909477958480
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_25
+  - first:
+      213: 8999987929454259038
+    second: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36066e305add420800000000000000
+      internalID: 2656460791387022265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41593aa37315da0800000000000000
+      internalID: -5957920107042368262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399a8ca73a5d8c20800000000000000
+      internalID: 3210321304549497136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 181
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317a6a47dc5f35e0800000000000000
+      internalID: -1927720035755069123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 90
+        width: 47
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b285d2ab3e2f560800000000000000
+      internalID: 7346184330958875540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 29
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12a8b9d8adecc70800000000000000
+      internalID: 8993365807640224223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 180
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94628bb95090fec0800000000000000
+      internalID: -3535166992413465445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 181
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63689f552d506d0800000000000000
+      internalID: -3024780308009044272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 181
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478fb405c475f690800000000000000
+      internalID: -7569015209189210298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 181
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd329cd86ce0280800000000000000
+      internalID: -9075097886837711938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8409f4563398530800000000000000
+      internalID: 3857671066039109875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643e401aae6289ea0800000000000000
+      internalID: -5865895725484416186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe30f0d1f6bd250800000000000000
+      internalID: 5970487901606374343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 90
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedaf9d8da2162100800000000000000
+      internalID: 82774179767627243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 90
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52a26fa3a6bfcd0800000000000000
+      internalID: -2523306364740426304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 90
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede0b17f35826c00800000000000000
+      internalID: 892422183709634025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 90
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059a46e9d23bdc80800000000000000
+      internalID: -8296981977047067390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 90
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fe5a79dc21d760800000000000000
+      internalID: 7480809768611674129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4049dbef07445400800000000000000
+      internalID: 311952407902371915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee359277dbd029690800000000000000
+      internalID: -7596994514021428242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e1b6cb0e92db00800000000000000
+      internalID: 851917052941822416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d42cf9c46f08410800000000000000
+      internalID: 1477451486735781267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02892405fb0abe5f0800000000000000
+      internalID: -726310171344463840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb6abbd0f4ff900800000000000000
+      internalID: 720381385804004775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868d0a94771dfd90800000000000000
+      internalID: -7062462851078846845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3149af5339b8c0800000000000000
+      internalID: -3983095909477958480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_113121878-stock-illustration-dollar-coin-with-spinning-animation-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5baced765166ec70800000000000000
+      internalID: 8999987929454259038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

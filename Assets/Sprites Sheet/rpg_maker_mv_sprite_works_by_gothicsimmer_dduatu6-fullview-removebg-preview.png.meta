@@ -1,0 +1,4212 @@
+fileFormatVersion: 2
+guid: bee194db21e2087489d106435227d584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4779849895893910212
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_0
+  - first:
+      213: -7115738796716282212
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_1
+  - first:
+      213: -1318679652646912200
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_2
+  - first:
+      213: -1588160191305419047
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_3
+  - first:
+      213: 1808994803206994609
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_4
+  - first:
+      213: -3867305744979715181
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_5
+  - first:
+      213: 116578772760988593
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_6
+  - first:
+      213: 6535994677629016752
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_7
+  - first:
+      213: -6748065355128183236
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_8
+  - first:
+      213: 6081392903072132787
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_9
+  - first:
+      213: -8801466404843608932
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_10
+  - first:
+      213: 909135589016449348
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_11
+  - first:
+      213: -1289927677020279039
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_12
+  - first:
+      213: -5462206848799559343
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_13
+  - first:
+      213: 7785381188422093498
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_14
+  - first:
+      213: -2632284743127640796
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_15
+  - first:
+      213: -2289404761256246238
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_16
+  - first:
+      213: 7076555362945957583
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_17
+  - first:
+      213: -256774941984277225
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_18
+  - first:
+      213: 6639787492481758860
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_19
+  - first:
+      213: -1911590458997292314
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_20
+  - first:
+      213: -7021438262675758049
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_21
+  - first:
+      213: 5127333616844653954
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_22
+  - first:
+      213: -4537358119128367404
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_23
+  - first:
+      213: 3641076480682055987
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_24
+  - first:
+      213: -172532955669936944
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_25
+  - first:
+      213: 7815405299363324302
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_26
+  - first:
+      213: -276807562721845459
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_27
+  - first:
+      213: 5285753381708172275
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_28
+  - first:
+      213: -8762561870359588815
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_29
+  - first:
+      213: 736725204008264635
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_30
+  - first:
+      213: -5957456622809062940
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_31
+  - first:
+      213: 29442951235766730
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_32
+  - first:
+      213: 7082636940009392931
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_33
+  - first:
+      213: -2878232085446552224
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_34
+  - first:
+      213: -7928022785839991556
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_35
+  - first:
+      213: 8989884106646899873
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_36
+  - first:
+      213: -2094022072129970599
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_37
+  - first:
+      213: 6484514082478123072
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_38
+  - first:
+      213: 8057959236594032328
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_39
+  - first:
+      213: -4255662612851186727
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_40
+  - first:
+      213: 7508252476911841502
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_41
+  - first:
+      213: -5728436320168778369
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_42
+  - first:
+      213: 8054882771311279804
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_43
+  - first:
+      213: -8736067429970458412
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_44
+  - first:
+      213: -8661534464883985999
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_45
+  - first:
+      213: -4597173795284403332
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_46
+  - first:
+      213: 4398999891330831399
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_47
+  - first:
+      213: -6626953102180613628
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_48
+  - first:
+      213: -8954899156054557997
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_49
+  - first:
+      213: -913896981514967183
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_50
+  - first:
+      213: 800803081792948416
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_51
+  - first:
+      213: -8252898084041506942
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_52
+  - first:
+      213: 6707669645067398543
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_53
+  - first:
+      213: -1193643623134282827
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_54
+  - first:
+      213: 1743845835043946172
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_55
+  - first:
+      213: -7736468626039668985
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_56
+  - first:
+      213: 6860715294230285826
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_57
+  - first:
+      213: -2462579914077677481
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_58
+  - first:
+      213: 9086237702560717266
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_59
+  - first:
+      213: 1905592487999689369
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_60
+  - first:
+      213: -6810478873728536386
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_61
+  - first:
+      213: 5544314555347113486
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_62
+  - first:
+      213: 5618294242453850122
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_63
+  - first:
+      213: -8741581619842913892
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_64
+  - first:
+      213: -6701473172402631353
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_65
+  - first:
+      213: -7082936864569742712
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_66
+  - first:
+      213: -8852306520470415680
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_67
+  - first:
+      213: -7227768956651352257
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_68
+  - first:
+      213: -1535039532243673566
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_69
+  - first:
+      213: -4604180395772257503
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_70
+  - first:
+      213: 3047790294693911226
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_71
+  - first:
+      213: 363941275799329031
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_72
+  - first:
+      213: -7314546656852910707
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_73
+  - first:
+      213: 3376342995486580043
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_74
+  - first:
+      213: 6392602604253715367
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_75
+  - first:
+      213: -5969377640744436333
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_76
+  - first:
+      213: 1719418342431128291
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_77
+  - first:
+      213: 1378923227581953233
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_78
+  - first:
+      213: -4356633702442198887
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_79
+  - first:
+      213: -2983353936900209432
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_80
+  - first:
+      213: 7247720954357856806
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_81
+  - first:
+      213: 7907786908578286500
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_82
+  - first:
+      213: -3884402820942666219
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_83
+  - first:
+      213: 7338650638202619258
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_84
+  - first:
+      213: 9065248420674919577
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_85
+  - first:
+      213: 1462370505960470076
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_86
+  - first:
+      213: -1232471591780389479
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_87
+  - first:
+      213: 2377791339681618615
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_88
+  - first:
+      213: -675067225419253983
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_89
+  - first:
+      213: -7653110138231396007
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_90
+  - first:
+      213: -1779427550240005131
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_91
+  - first:
+      213: 1582755203318977654
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_92
+  - first:
+      213: 6958748817352693168
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_93
+  - first:
+      213: 7779633077717835650
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_94
+  - first:
+      213: 3593741740698345474
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_95
+  - first:
+      213: -9218921445822572996
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_96
+  - first:
+      213: -6194506884028707303
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_97
+  - first:
+      213: -6993579425612846188
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_98
+  - first:
+      213: 4644713420922370379
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_99
+  - first:
+      213: -4608666365841271549
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_100
+  - first:
+      213: 696181895606486369
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_101
+  - first:
+      213: -6841576934451724154
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_102
+  - first:
+      213: -7023109123483518504
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_103
+  - first:
+      213: 1773260784276098190
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_104
+  - first:
+      213: 9079247159856286897
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_105
+  - first:
+      213: 5947858625042333058
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_106
+  - first:
+      213: -9191731517644967716
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_107
+  - first:
+      213: -8663817823862064170
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_108
+  - first:
+      213: 8483818702037318739
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_109
+  - first:
+      213: -7133551585182421602
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_110
+  - first:
+      213: -8900171802587184326
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_111
+  - first:
+      213: -6872698293025869400
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_112
+  - first:
+      213: 5656602878997747032
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_113
+  - first:
+      213: 5709728470314401547
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_114
+  - first:
+      213: -9157770800509168637
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_115
+  - first:
+      213: -153202558715908054
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_116
+  - first:
+      213: 1560276292467320239
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_117
+  - first:
+      213: 1922837686153231818
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_118
+  - first:
+      213: 3598016703429297167
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_119
+  - first:
+      213: -6349313383539560513
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_120
+  - first:
+      213: -1684454117292425007
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_121
+  - first:
+      213: -8232694231803591443
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_122
+  - first:
+      213: -1702482664709897601
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_123
+  - first:
+      213: -956610283418195402
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_124
+  - first:
+      213: -4388378356656398717
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_125
+  - first:
+      213: 2221042736387889947
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_126
+  - first:
+      213: -548583292434217496
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_127
+  - first:
+      213: 8268344783122122798
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_128
+  - first:
+      213: -72334382225129104
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_129
+  - first:
+      213: 1149257724770316424
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_130
+  - first:
+      213: -1524241058013931405
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_131
+  - first:
+      213: 2050991487353559556
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_132
+  - first:
+      213: -9204614694559542324
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_133
+  - first:
+      213: 4133547360666562250
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_134
+  - first:
+      213: 3019559862867951666
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_135
+  - first:
+      213: -7046928550769930621
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_136
+  - first:
+      213: 4100332448172159744
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_137
+  - first:
+      213: 6258569343332222690
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_138
+  - first:
+      213: 7721938378074443982
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_139
+  - first:
+      213: 3769421780766403874
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_140
+  - first:
+      213: -2058039752828468401
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_141
+  - first:
+      213: -1934128359254691039
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_142
+  - first:
+      213: -3342401996866760778
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_143
+  - first:
+      213: -7234823159961720772
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_144
+  - first:
+      213: 2030644833817965065
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_145
+  - first:
+      213: 8571778544570090143
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_146
+  - first:
+      213: 3521677373128507862
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_147
+  - first:
+      213: 2711345339904171865
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_148
+  - first:
+      213: 719682971703076954
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_149
+  - first:
+      213: -6855515047399902741
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_150
+  - first:
+      213: 2122530865588073632
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_151
+  - first:
+      213: 3309893009884810132
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_152
+  - first:
+      213: -3305945058589840112
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_153
+  - first:
+      213: 3182194422148522530
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_154
+  - first:
+      213: -112323693632001339
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_155
+  - first:
+      213: 377119762777952901
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_156
+  - first:
+      213: -2159604222696173176
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_157
+  - first:
+      213: -6935337861321241736
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_158
+  - first:
+      213: -3157352974478604877
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_159
+  - first:
+      213: 1733950325320713988
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_160
+  - first:
+      213: -4806043771826055253
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_161
+  - first:
+      213: 5305247855437739896
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_162
+  - first:
+      213: 3475048099194532384
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_163
+  - first:
+      213: 1865153622918068572
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_164
+  - first:
+      213: 8158831947309816162
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_165
+  - first:
+      213: -2598569281081644104
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_166
+  - first:
+      213: -1934578242647837567
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_167
+  - first:
+      213: 2889408020050886710
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_168
+  - first:
+      213: 2905901890604106900
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_169
+  - first:
+      213: -1224315916639238600
+    second: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2c174d720755240800000000000000
+      internalID: 4779849895893910212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ea243e341df3d90800000000000000
+      internalID: -7115738796716282212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff173b7db13bde0800000000000000
+      internalID: -1318679652646912200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f2de68b8b5f9e0800000000000000
+      internalID: -1588160191305419047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba3ea56037da1910800000000000000
+      internalID: 1808994803206994609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b18a03ae1945ac0800000000000000
+      internalID: -3867305744979715181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb05c2b6cb2e9100800000000000000
+      internalID: 116578772760988593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badbe5b78484ba50800000000000000
+      internalID: 6535994677629016752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e672ff4e0a52a0800000000000000
+      internalID: -6748065355128183236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be223fef92756450800000000000000
+      internalID: 6081392903072132787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9423ccdfe8ead580800000000000000
+      internalID: -8801466404843608932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441bdfb5006ed9c00800000000000000
+      internalID: 909135589016449348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fe241bc91491ee0800000000000000
+      internalID: -1289927677020279039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b89f9fc75234b0800000000000000
+      internalID: -5462206848799559343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 501
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba48e031fa3b0c60800000000000000
+      internalID: 7785381188422093498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 456
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425523af8fe387bd0800000000000000
+      internalID: -2632284743127640796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 456
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224cb3adf766a30e0800000000000000
+      internalID: -2289404761256246238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce77c10c99f43260800000000000000
+      internalID: 7076555362945957583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3ecbfc80cf6cf0800000000000000
+      internalID: -256774941984277225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 456
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f4799b83452c50800000000000000
+      internalID: 6639787492481758860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 456
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2c0770b9aa875e0800000000000000
+      internalID: -1911590458997292314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 456
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1420ece917de8e90800000000000000
+      internalID: -7021438262675758049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 456
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c1fc32c2f72740800000000000000
+      internalID: 5127333616844653954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 456
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7e92a4d01801c0800000000000000
+      internalID: -4537358119128367404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 456
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339551794c3b78230800000000000000
+      internalID: 3641076480682055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 456
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ce31e03a0b9df0800000000000000
+      internalID: -172532955669936944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 456
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a14446b5e57c60800000000000000
+      internalID: 7815405299363324302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 456
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f92d00df4982cf0800000000000000
+      internalID: -276807562721845459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 456
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb090f02b4ca5940800000000000000
+      internalID: 5285753381708172275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 456
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13095daa760256680800000000000000
+      internalID: -8762561870359588815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 410
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb36df17baf593a00800000000000000
+      internalID: 736725204008264635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 410
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1eaa8f3ccd25da0800000000000000
+      internalID: -5957456622809062940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 410
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac90c89453a986000800000000000000
+      internalID: 29442951235766730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 410
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc15285c49a4260800000000000000
+      internalID: 7082636940009392931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 410
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06593d5fa277e08d0800000000000000
+      internalID: -2878232085446552224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 410
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fdced7410af190800000000000000
+      internalID: -7928022785839991556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 410
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4e9ce6fb72cc70800000000000000
+      internalID: 8989884106646899873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9dde150a80f2e0800000000000000
+      internalID: -2094022072129970599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 410
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048602b933f9df950800000000000000
+      internalID: 6484514082478123072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 410
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced3c79b3f93df60800000000000000
+      internalID: 8057959236594032328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 410
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3281da669d0f4c0800000000000000
+      internalID: -4255662612851186727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 410
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f64ae8dba23860800000000000000
+      internalID: 7508252476911841502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 410
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e4e174818080b0800000000000000
+      internalID: -5728436320168778369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 410
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3c633431b8cf60800000000000000
+      internalID: 8054882771311279804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 410
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d840c645f043c680800000000000000
+      internalID: -8736067429970458412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b179c28b4c0cc780800000000000000
+      internalID: -8661534464883985999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb6514ace8330c0800000000000000
+      internalID: -4597173795284403332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 364
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72491c128136c0d30800000000000000
+      internalID: 4398999891330831399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020a51c3455804a0800000000000000
+      internalID: -6626953102180613628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3ce3a9aec9b380800000000000000
+      internalID: -8954899156054557997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177af7f898f2153f0800000000000000
+      internalID: -913896981514967183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88e49f8260d1b00800000000000000
+      internalID: 800803081792948416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f34351be0d77d80800000000000000
+      internalID: -8252898084041506942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da9e0e00e661d50800000000000000
+      internalID: 6707669645067398543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbbbaee2735f6fe0800000000000000
+      internalID: -1193643623134282827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb6d43c82633810800000000000000
+      internalID: 1743845835043946172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f73f036ca82a490800000000000000
+      internalID: -7736468626039668985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8fa1e538263f50800000000000000
+      internalID: 6860715294230285826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758536e8d9823ddd0800000000000000
+      internalID: -2462579914077677481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 364
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d994edac0dc81e70800000000000000
+      internalID: 9086237702560717266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992dfd58546027a10800000000000000
+      internalID: 1905592487999689369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0bb1d3c815c71a0800000000000000
+      internalID: -6810478873728536386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061e7a86bc51fc40800000000000000
+      internalID: 5544314555347113486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a088515b8d038fd40800000000000000
+      internalID: 5618294242453850122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99ed26e4d9afa680800000000000000
+      internalID: -8741581619842913892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8127d7a59ff2a0800000000000000
+      internalID: -6701473172402631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 319
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a2dccd27a54bd90800000000000000
+      internalID: -7082936864569742712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c69c740f1a462580800000000000000
+      internalID: -8852306520470415680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 319
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4334ad6ec1bb90800000000000000
+      internalID: -7227768956651352257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 319
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e1f6cada172bae0800000000000000
+      internalID: -1535039532243673566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 319
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5d24f25aaa10c0800000000000000
+      internalID: -4604180395772257503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 319
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1d19002deb4a20800000000000000
+      internalID: 3047790294693911226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 319
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091f1f79aafc0500800000000000000
+      internalID: 363941275799329031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd249d1928d7a90800000000000000
+      internalID: -7314546656852910707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d1bd5d01e2bde20800000000000000
+      internalID: 3376342995486580043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab97c8f23617b850800000000000000
+      internalID: 6392602604253715367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db441b9a2882da0800000000000000
+      internalID: -5969377640744436333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaf5e06fd99cd710800000000000000
+      internalID: 1719418342431128291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4be80ae5be22310800000000000000
+      internalID: 1378923227581953233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981075eab02a83c0800000000000000
+      internalID: -4356633702442198887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cccf966ff896d0800000000000000
+      internalID: -2983353936900209432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab7a3dec3159460800000000000000
+      internalID: 7247720954357856806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 273
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab0b4dcb4a1ebd60800000000000000
+      internalID: 7907786908578286500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ef2df634d71ac0800000000000000
+      internalID: -3884402820942666219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 273
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c2c4afdf18d560800000000000000
+      internalID: 7338650638202619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 273
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdffaa86b3ecd70800000000000000
+      internalID: 9065248420674919577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3638c92a326b4410800000000000000
+      internalID: 1462370505960470076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d6b200e9165eee0800000000000000
+      internalID: -1232471591780389479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 228
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba19b710ac9ff020800000000000000
+      internalID: 2377791339681618615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12770656feda1a6f0800000000000000
+      internalID: -675067225419253983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e6cf80e0bac590800000000000000
+      internalID: -7653110138231396007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a66422143e47e0800000000000000
+      internalID: -1779427550240005131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 228
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749a3cb87317f510800000000000000
+      internalID: 1582755203318977654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 228
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51a7b2e21729060800000000000000
+      internalID: 6958748817352693168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 228
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f1040e01fc6fb60800000000000000
+      internalID: 7779633077717835650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 228
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a1dc92198fd130800000000000000
+      internalID: 3593741740698345474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d389f9cfcf0080800000000000000
+      internalID: -9218921445822572996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 228
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec1c21fc0b80aa0800000000000000
+      internalID: -6194506884028707303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49badd3e090d1fe90800000000000000
+      internalID: -6993579425612846188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4931916f36557040800000000000000
+      internalID: 4644713420922370379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3059db7ab5aba00c0800000000000000
+      internalID: -4608666365841271549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ceaadeb559a900800000000000000
+      internalID: 696181895606486369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680cf7eb606dd01a0800000000000000
+      internalID: -6841576934451724154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b5f35677e88e90800000000000000
+      internalID: -7023109123483518504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c48e4c943eb9810800000000000000
+      internalID: 1773260784276098190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc453f1037fffd70800000000000000
+      internalID: 9079247159856286897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d34e708e90b8250800000000000000
+      internalID: 5947858625042333058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0720472e8607080800000000000000
+      internalID: -9191731517644967716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf002979fe3c780800000000000000
+      internalID: -8663817823862064170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 182
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cffb909249cb570800000000000000
+      internalID: 8483818702037318739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 182
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de642e0a8800d90800000000000000
+      internalID: -7133551585182421602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c7d296ec3c7480800000000000000
+      internalID: -8900171802587184326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a172cbc0554f90a0800000000000000
+      internalID: -6872698293025869400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855dc16395a408e40800000000000000
+      internalID: 5656602878997747032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 137
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3605dac70d3f40800000000000000
+      internalID: 5709728470314401547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 137
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d4351aff09e080800000000000000
+      internalID: -9157770800509168637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 137
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20be05a517bfddf0800000000000000
+      internalID: -153202558715908054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 137
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa56af3750737a510800000000000000
+      internalID: 1560276292467320239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 137
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb5eb10ba4faa10800000000000000
+      internalID: 1922837686153231818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 137
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0443dfe029bee130800000000000000
+      internalID: 3598016703429297167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 137
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfad762e15b2e7a0800000000000000
+      internalID: -6349313383539560513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 137
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0475aa7ed9f98e0800000000000000
+      internalID: -1684454117292425007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 137
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de480f007389fbd80800000000000000
+      internalID: -8232694231803591443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c4bd59019f58e0800000000000000
+      internalID: -1702482664709897601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6f5cf30079b2f0800000000000000
+      internalID: -956610283418195402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 137
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9b7f92295913c0800000000000000
+      internalID: -4388378356656398717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b9c55e99ab2de10800000000000000
+      internalID: 2221042736387889947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58ebce66a0368f0800000000000000
+      internalID: -548583292434217496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28c27ec5cf0fb270800000000000000
+      internalID: 8268344783122122798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0718c6a33440ffef0800000000000000
+      internalID: -72334382225129104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 91
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880fe48cfcbf2ff00800000000000000
+      internalID: 1149257724770316424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 91
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378930165dec8dae0800000000000000
+      internalID: -1524241058013931405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 91
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a1f0124e5967c10800000000000000
+      internalID: 2050991487353559556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 91
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3107414b3a24080800000000000000
+      internalID: -9204614694559542324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 91
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea8ce8c6f4d5930800000000000000
+      internalID: 4133547360666562250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 91
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230854c62b1a7e920800000000000000
+      internalID: 3019559862867951666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 91
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ecccdb1d7443e90800000000000000
+      internalID: -7046928550769930621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 91
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0033f4a13ae47e830800000000000000
+      internalID: 4100332448172159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 91
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6877f88a7ead650800000000000000
+      internalID: 6258569343332222690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05592da06d92b60800000000000000
+      internalID: 7721938378074443982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 91
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da33b632daf4430800000000000000
+      internalID: 3769421780766403874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c60fafbf5073e0800000000000000
+      internalID: -2058039752828468401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1237d9431889825e0800000000000000
+      internalID: -1934128359254691039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4338b7176d91d0800000000000000
+      internalID: -3342401996866760778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 45
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3866b1faaeb89b90800000000000000
+      internalID: -7234823159961720772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 45
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b3b0b7bc4e2c10800000000000000
+      internalID: 2030644833817965065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 45
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f924a6acb2315f670800000000000000
+      internalID: 8571778544570090143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10bd689e28fd030800000000000000
+      internalID: 3521677373128507862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 45
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f1668a832a0a520800000000000000
+      internalID: 2711345339904171865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 45
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58624789d3dcf900800000000000000
+      internalID: 719682971703076954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 45
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1326fe2615cd0a0800000000000000
+      internalID: -6855515047399902741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 45
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4fd2c939eb47d10800000000000000
+      internalID: 2122530865588073632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 45
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b8bbae72a1fed20800000000000000
+      internalID: 3309893009884810132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 45
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d6bcf1c7cee12d0800000000000000
+      internalID: -3305945058589840112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 45
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222646a87fc692c20800000000000000
+      internalID: 3182194422148522530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 45
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca643d1232f07ef0800000000000000
+      internalID: -112323693632001339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d82a1d6ccb3500800000000000000
+      internalID: 377119762777952901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d2cac66b8702e0800000000000000
+      internalID: -2159604222696173176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b41aac5fab0cf90800000000000000
+      internalID: -6935337861321241736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50ea5b234de24d0800000000000000
+      internalID: -3157352974478604877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070aee42aa301810800000000000000
+      internalID: 1733950325320713988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7545d27a08d4db0800000000000000
+      internalID: -4806043771826055253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f4cce0d600a940800000000000000
+      internalID: 5305247855437739896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f2e9a5d9d93030800000000000000
+      internalID: 3475048099194532384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597099865b52e910800000000000000
+      internalID: 1865153622918068572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2699281cd6ef93170800000000000000
+      internalID: 8158831947309816162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe2e4b10700fbd0800000000000000
+      internalID: -2598569281081644104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b6c0965ff625e0800000000000000
+      internalID: -1934578242647837567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304c46194d391820800000000000000
+      internalID: 2889408020050886710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49408959f56d35820800000000000000
+      internalID: 2905901890604106900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_mv_sprite_works_by_gothicsimmer_dduatu6-fullview-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8368cd7192b520fe0800000000000000
+      internalID: -1224315916639238600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

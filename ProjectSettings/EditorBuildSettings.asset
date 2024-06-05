@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level1GameOver.unity
+    guid: f7c8607ba2ee13240ac1dcf5a4a4f0a8
+  - enabled: 1
+    path: Assets/Level2GameOver.unity
+    guid: 186b69de7c79ab04989f1a546be6387c
+  - enabled: 1
+    path: Assets/Level3GameOver.unity
+    guid: 9bb78773cd2b32e45887eb1f621c31e8
+  - enabled: 1
+    path: Assets/Level4GameOver.unity
+    guid: 1f558aad3449ffa46b10c237dfef2796
+  - enabled: 1
+    path: Assets/Scenes/Level1Cutscene3.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Intro Cutscene.unity
+    guid: 4564c9ec8e6833d479ba882471bd6510
+  - enabled: 1
+    path: Assets/Main Menu.unity
+    guid: 6acdd5fc5af4dea40b80ea75165bbc7c
+  - enabled: 1
+    path: Assets/Controls.unity
+    guid: a94f80d7b182803468f267bf6467020d
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 7f71e5b89f5386c4d97603b0a6489e43
+  - enabled: 1
+    path: Assets/Level1Cutscene.unity
+    guid: bf1ac0bd8e3c96d4587d037d54c8bee6
+  - enabled: 1
+    path: Assets/Level1Cutscene2.unity
+    guid: 0626124e67c7fc249aa66faa8b41809d
+  - enabled: 1
+    path: Assets/Level1Cutscene3.unity
+    guid: 518613e5d432a2b40bc59c94b4bcef7e
+  - enabled: 1
+    path: Assets/Level1Scene1.unity
+    guid: 4c6ea3750af1e2f42bb05f2d5368296a
+  - enabled: 1
+    path: Assets/Level1Scene2.unity
+    guid: d5b5d4ca09edb9d4981176cdc8e1ce21
+  - enabled: 1
+    path: Assets/Level2Cutscene1.unity
+    guid: 2ed52a8b5ee4d954288a9673d03d4d65
+  - enabled: 1
+    path: Assets/Level2Scene1.unity
+    guid: bbb2dd4ca2e755d43a6b0d52c28e020b
+  - enabled: 1
+    path: Assets/Level2Scene2.unity
+    guid: beb8500207d48704eb90c5c4d368a850
+  - enabled: 1
+    path: Assets/Level3.unity
+    guid: ceca66a964696294f8bad0a9b12f7e7f
+  - enabled: 1
+    path: Assets/Level4Scene1.unity
+    guid: 560b8bcdfadfd0f4bac502de2d004fff
+  - enabled: 1
+    path: Assets/Dracula Cutscene.unity
+    guid: f8894c90ce299b24eac02b5c1cba62c0
+  - enabled: 1
+    path: Assets/Level4Scene2.unity
+    guid: 293af7dec4c15b742a7ccdba324df4cb
+  - enabled: 1
+    path: Assets/FinalCutscene.unity
+    guid: 48dfe31154acdec428fe83c00a17bf21
+  m_configObjects: {}
